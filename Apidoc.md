@@ -29,7 +29,7 @@
 # List of Orders (GET method)
 > http://localhost:9500/viewOrder
 
-# List of customers deatails on the basis of the email
+# List of customers details on the basis of the email
 > http://localhost:9500/viewCustomer?email=rahul@gmail.com
 
 # Update the Order(PUT method)
